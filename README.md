@@ -5,3 +5,5 @@
 通过,W,A,S,D控制方向，可穿墙。
 碰到蛇身失败。
 空格开始，重新游戏
+
+![Image text](picture/Snake.png)
